@@ -3,15 +3,15 @@ Python project of ABC company
 
 Here I used a dataset of ABC company which includes the columns:
 
-Name: Employee name
-Team: Team or department of the employee
-Number: A numerical identifier (possibly for teams)
-Position: Position within the team or company
-Age: Employee age
-Height: A timestamp which seems to be incorrectly stored (this should be the height data)
-Weight: Employee weight
-College: College attended
-Salary: Employee salary
+1. Name: Employee name
+2. Team: Team or department of the employee
+3. Number: A numerical identifier (possibly for teams)
+4. Position: Position within the team or company
+5. Age: Employee age
+6. Height: A timestamp which seems to be incorrectly stored (this should be the height data)
+7. Weight: Employee weight
+8. College: College attended
+9. Salary: Employee salary
 
 #Steps : First we read the excel data from the system and then check that the data is proper. After checking clean the data by handling missing values, remove repeated values etc and some mistake for the height column. So Correct the data in the "height" column by replacing it with random numbers between 150 and 180.Now let's start the analysis
 
