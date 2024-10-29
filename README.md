@@ -1,6 +1,8 @@
 # pythonproject
 Python project of ABC company 
+
 Here I used a dataset of ABC company which includes the columns:
+
 Name: Employee name
 Team: Team or department of the employee
 Number: A numerical identifier (possibly for teams)
@@ -10,6 +12,7 @@ Height: A timestamp which seems to be incorrectly stored (this should be the hei
 Weight: Employee weight
 College: College attended
 Salary: Employee salary
+
 #Steps : First we read the excel data from the system and then check that the data is proper. After checking clean the data by handling missing values, remove repeated values etc and some mistake for the height column. So Correct the data in the "height" column by replacing it with random numbers between 150 and 180.Now let's start the analysis
 
 Task 1: Distribution of Employees Across Each Team
